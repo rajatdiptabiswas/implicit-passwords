@@ -1,0 +1,26 @@
+as1: Who is your favourite celebrity / singer?
+    1) Actor's face 
+    2) Movie
+    3) song
+
+as2: What is your favourite city to visit?
+    1) Globe
+    2) Image (monuments)
+
+
+as3: Favourite sports team?
+    1) Logo
+    2) Player's face
+
+as4: Favourite packed food item
+    1) Company logo
+    2) Food Category 
+
+
+
+************************not included now
+as5: What is your dream job / profession?
+    1) Profession
+    2) Tech stack
+    3) Company logo
+
