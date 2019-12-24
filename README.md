@@ -15,14 +15,14 @@ This is a standard PHP+MySQL project.
 2) Import the SQL dump `db_dump.sql`
 
 ## Authors
-(University Project group under the mentorship of Prof. Suneeta Agarwal)
+*University project group under the mentorship of **Prof. Suneeta Agarwal***
 * **Tuhin Subhra Patra** - [armag-pro](https://github.com/armag-pro)
 * **Rajat Dipta Biswas** - [rajatdiptabiswas](https://github.com/rajatdiptabiswas)
 * **Upmanyu Jamwal**
 * **S Pranav Ganesh**
 
-See also the list of [contributors](https://github.com/armag-pro/classification-north-south-indian/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/armag-pro/implicit-passwords/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
